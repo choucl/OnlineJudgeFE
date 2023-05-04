@@ -141,7 +141,7 @@
             }
           ],
           toolbox: {
-            show: true,
+            show: false,
             feature: {
               saveAsImage: {show: true, title: this.$i18n.t('m.save_as_image')}
             },
